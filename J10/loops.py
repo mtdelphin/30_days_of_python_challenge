@@ -1,4 +1,4 @@
-"""Day9 30 days of Python Programming"""
+"""Day10 30 days of Python Programming"""
 
 #Exercices: Level 1
 #1
