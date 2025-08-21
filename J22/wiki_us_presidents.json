@@ -1,0 +1,425 @@
+[
+    {
+        "no": "1\n",
+        "portrait": "/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington_(3x4_cropped).jpg",
+        "name": "George Washington",
+        "term": "April 30, 1789\u2013March 4, 1797",
+        "party": "Unaffiliated",
+        "election": "1788\u2013891792",
+        "vice_president": "John Adams[c]"
+    },
+    {
+        "no": "2\n",
+        "portrait": "/wiki/File:John_Adams_A18236_(cropped).jpg",
+        "name": "John Adams",
+        "term": "March 4, 1797\u2013March 4, 1801",
+        "party": "Federalist",
+        "election": "1796",
+        "vice_president": "Thomas Jefferson[d]"
+    },
+    {
+        "no": "3\n",
+        "portrait": "/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800)_(3x4_cropped).jpg",
+        "name": "Thomas Jefferson",
+        "term": "March 4, 1801\u2013March 4, 1809",
+        "party": "Democratic-Republican",
+        "election": "18001804",
+        "vice_president": "Aaron BurrGeorge Clinton"
+    },
+    {
+        "no": "4\n",
+        "portrait": "/wiki/File:James_Madison_Portrait_1816_(3x4_cropped).jpg",
+        "name": "James Madison",
+        "term": "March 4, 1809\u2013March 4, 1817",
+        "party": "Democratic-Republican",
+        "election": "18081812",
+        "vice_president": "George Clinton[e]Vacant\u00a0afterApril 20, 1812Elbridge Gerry[e]Vacant\u00a0afterNovember 23, 1814"
+    },
+    {
+        "no": "5\n",
+        "portrait": "/wiki/File:James_Monroe_White_House_portrait_1819_(cropped_3x4_close).jpg",
+        "name": "James Monroe",
+        "term": "March 4, 1817\u2013March 4, 1825",
+        "party": "Democratic-Republican",
+        "election": "18161820",
+        "vice_president": "Daniel D. Tompkins"
+    },
+    {
+        "no": "6\n",
+        "portrait": "/wiki/File:John_Quincy_Adams_1858_(3x4_cropped).jpg",
+        "name": "John Quincy Adams",
+        "term": "March 4, 1825\u2013March 4, 1829",
+        "party": "Democratic-Republican[f]National Republican",
+        "election": "1824",
+        "vice_president": "John C. Calhoun[g]"
+    },
+    {
+        "no": "7\n",
+        "portrait": "/wiki/File:Andrew_jackson_head_(3x4_cropped).jpg",
+        "name": "Andrew Jackson",
+        "term": "March 4, 1829\u2013March 4, 1837",
+        "party": "Democratic",
+        "election": "18281832",
+        "vice_president": "John C. Calhoun[h]Vacant\u00a0afterDecember 28, 1832Martin Van Buren"
+    },
+    {
+        "no": "8\n",
+        "portrait": "/wiki/File:Martin_Van_Buren_circa_1837_(3x4_cropped).jpg",
+        "name": "Martin Van Buren",
+        "term": "March 4, 1837\u2013March 4, 1841",
+        "party": "Democratic",
+        "election": "1836",
+        "vice_president": "Richard Mentor Johnson"
+    },
+    {
+        "no": "9\n",
+        "portrait": "/wiki/File:William_Henry_Harrison_Portrait_(3x4_cropped).jpg",
+        "name": "William Henry Harrison",
+        "term": "March 4, 1841\u2013April 4, 1841[e]",
+        "party": "Whig",
+        "election": "1840",
+        "vice_president": "John Tyler"
+    },
+    {
+        "no": "10\n",
+        "portrait": "/wiki/File:John_Tyler_(cropped_3x4)_(cropped)(2).png",
+        "name": "John Tyler",
+        "term": "April 4, 1841[i]\u2013March 4, 1845",
+        "party": "Whig[j]Unaffiliated",
+        "election": "\u2013",
+        "vice_president": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "no": "11\n",
+        "portrait": "/wiki/File:James_K_Polk_(3x4_cropped).jpg",
+        "name": "James K. Polk",
+        "term": "March 4, 1845\u2013March 4, 1849",
+        "party": "Democratic",
+        "election": "1844",
+        "vice_president": "George M. Dallas"
+    },
+    {
+        "no": "12\n",
+        "portrait": "/wiki/File:Zachary_Taylor_restored_(3x4_cropped).jpg",
+        "name": "Zachary Taylor",
+        "term": "March 4, 1849\u2013July 9, 1850[e]",
+        "party": "Whig",
+        "election": "1848",
+        "vice_president": "Millard Fillmore"
+    },
+    {
+        "no": "13\n",
+        "portrait": "/wiki/File:Fillmore_(cropped).jpg",
+        "name": "Millard Fillmore",
+        "term": "July 9, 1850[k]\u2013March 4, 1853",
+        "party": "Whig",
+        "election": "\u2013",
+        "vice_president": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "no": "14\n",
+        "portrait": "/wiki/File:Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_(cropped)(2).jpg",
+        "name": "Franklin Pierce",
+        "term": "March 4, 1853\u2013March 4, 1857",
+        "party": "Democratic",
+        "election": "1852",
+        "vice_president": "William R. King[e]Vacant\u00a0afterApril 18, 1853"
+    },
+    {
+        "no": "15\n",
+        "portrait": "/wiki/File:James_Buchanan_(cropped_3x4).jpg",
+        "name": "James Buchanan",
+        "term": "March 4, 1857\u2013March 4, 1861",
+        "party": "Democratic",
+        "election": "1856",
+        "vice_president": "John C. Breckinridge"
+    },
+    {
+        "no": "16\n",
+        "portrait": "/wiki/File:Abraham_Lincoln_1863_Portrait_(3x4_cropped).jpg",
+        "name": "Abraham Lincoln",
+        "term": "March 4, 1861\u2013April 15, 1865[e]",
+        "party": "RepublicanNational Union[l]",
+        "election": "18601864",
+        "vice_president": "Hannibal HamlinAndrew Johnson"
+    },
+    {
+        "no": "17\n",
+        "portrait": "/wiki/File:Andrew_Johnson_photo_portrait_head_and_shoulders_(3x4_cropped).jpg",
+        "name": "Andrew Johnson",
+        "term": "April 15, 1865[m]\u2013March 4, 1869",
+        "party": "National Union[n]Democratic",
+        "election": "\u2013",
+        "vice_president": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "no": "18\n",
+        "portrait": "/wiki/File:Ulysses_S_Grant_by_Brady_c1870-restored_(3x4_cropped).jpg",
+        "name": "Ulysses S. Grant",
+        "term": "March 4, 1869\u2013March 4, 1877",
+        "party": "Republican",
+        "election": "18681872",
+        "vice_president": "Schuyler ColfaxHenry Wilson[e]Vacant\u00a0afterNovember 22, 1875"
+    },
+    {
+        "no": "19\n",
+        "portrait": "/wiki/File:President_Rutherford_Hayes_1870_-_1880_(3x4_cropped).jpg",
+        "name": "Rutherford B. Hayes",
+        "term": "March 4, 1877\u2013March 4, 1881",
+        "party": "Republican",
+        "election": "1876",
+        "vice_president": "William A. Wheeler"
+    },
+    {
+        "no": "20\n",
+        "portrait": "/wiki/File:James_Abram_Garfield,_photo_portrait_seated_(3x4_cropped_b).jpg",
+        "name": "James A. Garfield",
+        "term": "March 4, 1881\u2013September 19, 1881[e]",
+        "party": "Republican",
+        "election": "1880",
+        "vice_president": "Chester A. Arthur"
+    },
+    {
+        "no": "21\n",
+        "portrait": "/wiki/File:Chester_A._Arthur_by_Abraham_Bogardus_(cropped)_(2).jpg",
+        "name": "Chester A. Arthur",
+        "term": "September 19, 1881[o]\u2013March 4, 1885",
+        "party": "Republican",
+        "election": "\u2013",
+        "vice_president": "Vacant\u00a0throughoutpresidency"
+    },
+    {
+        "no": "22\n",
+        "portrait": "/wiki/File:Grover_Cleveland_by_Charles_Milton_Bell_color_change_(3x4_cropped_b).jpg",
+        "name": "Grover Cleveland",
+        "term": "March 4, 1885\u2013March 4, 1889",
+        "party": "Democratic",
+        "election": "1884",
+        "vice_president": "Thomas A. Hendricks[e]Vacant\u00a0afterNovember 25, 1885"
+    },
+    {
+        "no": "23\n",
+        "portrait": "/wiki/File:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896_(4x5_cropped).jpg",
+        "name": "Benjamin Harrison",
+        "term": "March 4, 1889\u2013March 4, 1893",
+        "party": "Republican",
+        "election": "1888",
+        "vice_president": "Levi P. Morton"
+    },
+    {
+        "no": "24\n",
+        "portrait": "/wiki/File:StephenGroverCleveland.jpg",
+        "name": "Grover Cleveland",
+        "term": "March 4, 1893\u2013March 4, 1897",
+        "party": "Democratic",
+        "election": "1892",
+        "vice_president": "Adlai Stevenson\u00a0I"
+    },
+    {
+        "no": "25\n",
+        "portrait": "/wiki/File:William_McKinley_Portrait_(3x4_cropped).jpg",
+        "name": "William McKinley",
+        "term": "March 4, 1897\u2013September 14, 1901[e]",
+        "party": "Republican",
+        "election": "18961900",
+        "vice_president": "Garret Hobart[e]Vacant\u00a0afterNovember 21, 1899Theodore Roosevelt"
+    },
+    {
+        "no": "26\n",
+        "portrait": "/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped).jpg",
+        "name": "Theodore Roosevelt",
+        "term": "September 14, 1901[p]\u2013March 4, 1909",
+        "party": "Republican",
+        "election": "\u20131904",
+        "vice_president": "Vacant\u00a0throughMarch 4, 1905Charles W. Fairbanks"
+    },
+    {
+        "no": "27\n",
+        "portrait": "/wiki/File:William_Howard_Taft_by_Pach_Brothers_(3x4_ropped).jpg",
+        "name": "William Howard Taft",
+        "term": "March 4, 1909\u2013March 4, 1913",
+        "party": "Republican",
+        "election": "1908",
+        "vice_president": "James S. Sherman[e]Vacant\u00a0afterOctober 30, 1912"
+    },
+    {
+        "no": "28\n",
+        "portrait": "/wiki/File:President_Woodrow_Wilson_in_1914,_Harris_%26_Ewing_(3x4_cropped_c).jpg",
+        "name": "Woodrow Wilson",
+        "term": "March 4, 1913\u2013March 4, 1921",
+        "party": "Democratic",
+        "election": "19121916",
+        "vice_president": "Thomas R. Marshall"
+    },
+    {
+        "no": "29\n",
+        "portrait": "/wiki/File:Warren_G_Harding-Harris_%26_Ewing_(3x4_cropped).jpg",
+        "name": "Warren G. Harding",
+        "term": "March 4, 1921\u2013August 2, 1923[e]",
+        "party": "Republican",
+        "election": "1920",
+        "vice_president": "Calvin Coolidge"
+    },
+    {
+        "no": "30\n",
+        "portrait": "/wiki/File:President_Calvin_Coolidge,_1924_head-and-shoulders_portrait,_facing_slightly_right_(2).jpeg",
+        "name": "Calvin Coolidge",
+        "term": "August 2, 1923[q]\u2013March 4, 1929",
+        "party": "Republican",
+        "election": "\u20131924",
+        "vice_president": "Vacant\u00a0throughMarch 4, 1925Charles G. Dawes"
+    },
+    {
+        "no": "31\n",
+        "portrait": "/wiki/File:Unsuccessful_1932.jpg",
+        "name": "Herbert Hoover",
+        "term": "March 4, 1929\u2013March 4, 1933",
+        "party": "Republican",
+        "election": "1928",
+        "vice_president": "Charles Curtis"
+    },
+    {
+        "no": "32\n",
+        "portrait": "/wiki/File:FDR-1944-Campaign-Portrait_(cropped).jpg",
+        "name": "Franklin D. Roosevelt",
+        "term": "March 4, 1933\u2013April 12, 1945[e]",
+        "party": "Democratic",
+        "election": "1932193619401944",
+        "vice_president": "John Nance GarnerHenry A. WallaceHarry S. Truman"
+    },
+    {
+        "no": "33\n",
+        "portrait": "/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
+        "name": "Harry S. Truman",
+        "term": "April 12, 1945[r]\u2013January 20, 1953",
+        "party": "Democratic",
+        "election": "\u20131948",
+        "vice_president": "Vacant\u00a0throughJanuary 20, 1949Alben W. Barkley"
+    },
+    {
+        "no": "34\n",
+        "portrait": "/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959_(cropped)(3).jpg",
+        "name": "Dwight D. Eisenhower",
+        "term": "January 20, 1953\u2013January 20, 1961",
+        "party": "Republican",
+        "election": "19521956",
+        "vice_president": "Richard Nixon"
+    },
+    {
+        "no": "35\n",
+        "portrait": "/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait_(3x4)_(cropped).jpg",
+        "name": "John F. Kennedy",
+        "term": "January 20, 1961\u2013November 22, 1963[e]",
+        "party": "Democratic",
+        "election": "1960",
+        "vice_president": "Lyndon B. Johnson"
+    },
+    {
+        "no": "36\n",
+        "portrait": "/wiki/File:37_Lyndon_Johnson_3x4.jpg",
+        "name": "Lyndon B. Johnson",
+        "term": "November 22, 1963[s]\u2013January 20, 1969",
+        "party": "Democratic",
+        "election": "\u20131964",
+        "vice_president": "Vacant\u00a0throughJanuary 20, 1965Hubert Humphrey"
+    },
+    {
+        "no": "37\n",
+        "portrait": "/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg",
+        "name": "Richard Nixon",
+        "term": "January 20, 1969\u2013August 9, 1974[h]",
+        "party": "Republican",
+        "election": "19681972",
+        "vice_president": "Spiro Agnew[h]Vacant:October 10 \u2013 December 6, 1973Gerald Ford[t]"
+    },
+    {
+        "no": "38\n",
+        "portrait": "/wiki/File:Gerald_Ford_presidential_portrait_(cropped_3).jpg",
+        "name": "Gerald Ford",
+        "term": "August 9, 1974[u]\u2013January 20, 1977",
+        "party": "Republican",
+        "election": "\u2013",
+        "vice_president": "Vacant\u00a0throughDecember 19, 1974Nelson Rockefeller[t]"
+    },
+    {
+        "no": "39\n",
+        "portrait": "/wiki/File:Carter_cropped.jpg",
+        "name": "Jimmy Carter",
+        "term": "January 20, 1977\u2013January 20, 1981",
+        "party": "Democratic",
+        "election": "1976",
+        "vice_president": "Walter Mondale"
+    },
+    {
+        "no": "40\n",
+        "portrait": "/wiki/File:Official_Portrait_of_President_Reagan_1981-cropped.jpg",
+        "name": "Ronald Reagan",
+        "term": "January 20, 1981\u2013January 20, 1989",
+        "party": "Republican",
+        "election": "19801984",
+        "vice_president": "George H. W. Bush"
+    },
+    {
+        "no": "41\n",
+        "portrait": "/wiki/File:George_H._W._Bush_presidential_portrait_(cropped_2).jpg",
+        "name": "George H. W. Bush",
+        "term": "January 20, 1989\u2013January 20, 1993",
+        "party": "Republican",
+        "election": "1988",
+        "vice_president": "Dan Quayle"
+    },
+    {
+        "no": "42\n",
+        "portrait": "/wiki/File:Bill_Clinton.jpg",
+        "name": "Bill Clinton",
+        "term": "January 20, 1993\u2013January 20, 2001",
+        "party": "Democratic",
+        "election": "19921996",
+        "vice_president": "Al Gore"
+    },
+    {
+        "no": "43\n",
+        "portrait": "/wiki/File:George-W-Bush.jpeg",
+        "name": "George W. Bush",
+        "term": "January 20, 2001\u2013January 20, 2009",
+        "party": "Republican",
+        "election": "20002004",
+        "vice_president": "Dick Cheney"
+    },
+    {
+        "no": "44\n",
+        "portrait": "/wiki/File:President_Barack_Obama,_2012_portrait_crop.jpg",
+        "name": "Barack Obama",
+        "term": "January 20, 2009\u2013January 20, 2017",
+        "party": "Democratic",
+        "election": "20082012",
+        "vice_president": "Joe Biden"
+    },
+    {
+        "no": "45\n",
+        "portrait": "/wiki/File:Donald_Trump_official_portrait_(3x4a).jpg",
+        "name": "Donald Trump",
+        "term": "January 20, 2017\u2013January 20, 2021",
+        "party": "Republican",
+        "election": "2016",
+        "vice_president": "Mike Pence"
+    },
+    {
+        "no": "46\n",
+        "portrait": "/wiki/File:Joe_Biden_presidential_portrait_(cropped).jpg",
+        "name": "Joe Biden",
+        "term": "January 20, 2021\u2013January 20, 2025",
+        "party": "Democratic",
+        "election": "2020",
+        "vice_president": "Kamala Harris"
+    },
+    {
+        "no": "47\n",
+        "portrait": "/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+        "name": "Donald Trump",
+        "term": "January 20, 2025\u2013Incumbent",
+        "party": "Republican",
+        "election": "2024",
+        "vice_president": "JD Vance"
+    }
+]
