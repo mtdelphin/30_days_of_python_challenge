@@ -1,0 +1,238 @@
+/*-------------------------------------
+  1. Reset et base 
+-------------------------------------*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* Fond vert sombre moderne */
+  background-color: #1b3a2a; /* vert sombre profond */
+  color: #e0e8dc; /* texte clair pour contraste */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  position: relative;
+  padding: 40px 20px;
+  overflow-x: hidden;
+}
+
+/*-------------------------------------
+  2. Effet étoiles aléatoires en background
+-------------------------------------*/
+/* 
+  Utilisation de plusieurs petits box-shadow sur un pseudo-élément 
+  pour simuler des points irréguliers (étoiles) de tailles et positions variées.
+*/
+body::before {
+  content: "";
+  position: fixed; /* fixé par rapport au viewport */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none; /* ignore les interactions */
+  z-index: 0;
+  background: transparent;
+  box-shadow:
+    /* étoiles blanches petites */
+    10px 20px 1px 1px #fff,
+    40px 80px 1.5px 1px #e0e8dc,
+    70px 150px 1px 0.8px #c0d9b9,
+    140px 50px 1.8px 1px #fff,
+    200px 100px 1.2px 1px #d0d9c7,
+    300px 120px 1px 0.9px #fff,
+    350px 190px 2px 1.2px #eaf3e7,
+    400px 70px 1px 0.7px #cff0a2,
+    450px 230px 1.5px 1px #e0e8dc,
+    600px 170px 2px 1.1px #fff,
+    650px 20px 1px 0.6px #b4cf9a,
+    700px 140px 1.3px 1px #d6eacc,
+    750px 230px 1.7px 1px #fff,
+    820px 100px 1px 1px #e0e8dc,
+    870px 50px 1.4px 0.9px #cce1b9,
+    900px 210px 1px 1px #fff;
+  /* Répétez ou ajustez pour plus d'effets d'étoiles */
+}
+
+/*-------------------------------------
+  3. Menu horizontal automatique (ul, li, a)
+-------------------------------------*/
+nav {
+  position: relative;
+  z-index: 10; /* devant l'effet étoiles */
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: inline-flex; /* menu horizontal */
+  gap: 20px;
+  padding: 0;
+  margin: 0 auto;
+}
+
+nav ul li {
+  /* Pour aligner verticalement si texte = plusieurs lignes */
+  display: flex;
+  align-items: center;
+}
+
+nav ul li a {
+  color: #a8d5a3;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 10px 15px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  user-select: none;
+}
+.nav-link{
+  color: #a8d5a3;
+  text-decoration: none;
+}
+nav ul li a:hover,
+nav ul li a:focus {
+  background-color: #a8d5a3;
+  color: #1b3a2a;
+  outline: none;
+  cursor: pointer;
+}
+
+/*-------------------------------------
+  4. Titres h1 et h2
+-------------------------------------*/
+h1, h2 {
+  color: #e6f1d3; /* vert clair */
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+.tech-lists{
+    padding: 1em 3em;
+}
+
+/*-------------------------------------
+  5. Formulaires et Inputs
+-------------------------------------*/
+form {
+  max-width: 480px;
+  margin: 0 auto 40px auto;
+  background: rgba(255 255 255 / 0.1);
+  padding: 25px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgb(0 0 0 / 0.15);
+  color: #d6ebc1;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 20px;
+  border: 2px solid #6a9a69;
+  border-radius: 8px;
+  background-color: #2c5536; /* vert foncé intermédiaire */
+  color: #e6f1d3;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+  font-family: inherit;
+  resize: vertical;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: #a8d5a3;
+  background-color: #395d3a;
+}
+
+/*-------------------------------------
+  6. Boutons
+-------------------------------------*/
+button,
+input[type="submit"],
+input[type="button"] {
+  background-color: #a8d5a3;
+  color: #1b3a2a;
+  border: none;
+  padding: 14px 28px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+  user-select: none;
+}
+
+button:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+button:focus,
+input[type="submit"]:focus,
+input[type="button"]:focus {
+  background-color: #d0e8b0;
+  color: #1a2a19;
+  box-shadow: 0 0 10px #cee5abaa;
+  outline: none;
+}
+
+/*-------------------------------------
+  7. Alignements généraux & responsiveness
+-------------------------------------*/
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  nav ul li a {
+    font-size: 1rem;
+    padding: 12px 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  form {
+    padding: 20px;
+  }
+}
